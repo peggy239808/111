@@ -92,3 +92,29 @@ body {
 .line-height {
 	line-height: 2.5em;
 }
+.noborder {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+a {
+	color: #669933;
+	text-decoration: none;
+}
+#listNew a:hover {
+	color: #ED601B;
+	text-decoration: underline;
+}
+.transition {
+	-webkit-transition: all 1s ease 0s;
+	-moz-transition: all 1s ease 0s;
+	-ms-transition: all 1s ease 0s;
+	-o-transition: all 1s ease 0s;
+	transition: all 1s ease 0s;
+}
+.transition:hover {
+	-webkit-opacity: 0.5;
+	-moz-opacity: 0.5;
+	opacity: 0.5;
+}
