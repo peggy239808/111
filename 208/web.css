@@ -6,6 +6,13 @@
 	margin-right: auto;
 	margin-left: auto;
 }
+#main {
+	background-image: url(images/main.png);
+	width: 766px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 #mainL {
 	float: left;
 	width: 173px;
@@ -16,6 +23,14 @@
 	width: 537px;
 	margin-left: 203px;
 }
+#footer {
+	background-image: url(images/footer.png);
+	height: 68px;
+	width: 766px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 #banner {
 	margin-bottom: 5px;
 }
@@ -24,7 +39,7 @@ ul {
 	padding: 0px;
 	list-style-type: none;
 }
-lia {
+li a {
 	line-height: 25px;
 	color: #FFF;
 	text-decoration: none;
@@ -34,6 +49,8 @@ lia {
 	height: 25px;
 	width: 173px;
 }
+
+
 li a:hover {
 	color: #666;
 	background-image: url(images/button.png);
