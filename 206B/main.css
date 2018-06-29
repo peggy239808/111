@@ -52,9 +52,9 @@ img, object, embed, video {
 	display: block;
 }
 #LayoutDiv3 {
-	clear: both;
+	clear: none;
 	float: left;
-	margin-left: 0;
+	margin-left: 4.1666%;
 	width: 100%;
 	display: block;
 }
@@ -98,9 +98,9 @@ img, object, embed, video {
 	display: block;
 }
 #LayoutDiv3 {
-	clear: both;
+	clear: none;
 	float: left;
-	margin-left: 0;
+	margin-left: 2.5641%;
 	width: 100%;
 	display: block;
 }
@@ -143,14 +143,14 @@ img, object, embed, video {
 	clear: both;
 	float: left;
 	margin-left: 0;
-	width: 100%;
+	width: 28.5714%;
 	display: block;
 }
 #LayoutDiv3 {
 	clear: none;
 	float: left;
 	margin-left: 2.0408%;
-	width: 100%;
+	width: 69.3877%;
 	display: block;
 }
 #LayoutDiv3 p {
